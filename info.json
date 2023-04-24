@@ -1,0 +1,12 @@
+{
+  "name": "old-alert-sound",
+  "version": "1.0.0",
+  "title": "Old Alert Sound",
+  "description": "Brings back the old alert sound",
+  "author": "X_Man1109",
+  "contact": "X_Man1109#6160",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base"
+  ]
+}
